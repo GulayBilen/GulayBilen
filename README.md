@@ -2,6 +2,8 @@
 **Senior Creative Producer & Performance Strategy Executive** *Bridging High-Polish Production with AI-Augmented Workflows*
 
 [LinkedIn](https://www.linkedin.com/in/gulay-bilen) | Long Beach, CA | Bilingual: English & Turkish
+<!-- HERO REEL PLACEHOLDER -->
+<!-- Replace this block with embedded video or GIF when ready -->
 
 ---
 
