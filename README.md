@@ -35,6 +35,17 @@ It is a placeholder in motion — evolving, expanding, and shaped by the same mu
 Multidisciplinary creative working at the intersection of symbolism, UX reasoning, experiential storytelling, and AI‑augmented workflows.    
 My work blends conceptual clarity with emotional grounding, shaped by nature, cultural motifs, and modern creative technology.
 
+## Brand Capsules
+
+Brand Capsules explore how clarity, symbolism, and narrative structure shape the identity of a brand.  
+They focus on the emotional logic behind visual systems, tone, and experiential coherence — the elements that make a brand feel intentional, grounded, and alive.
+
+These capsules reflect how I translate abstract ideas into structured creative systems, blending observation, storytelling, and modern creative technology.
+
+### Included Capsules
+- [Optical Storytelling Engine](./optical-storytelling-engine.md)  
+- [Agentic Creative Workflow](./agentic-creative-workflow.md)
+- 
 ## Executive Summary
 Strategic media leader with a background in high-fidelity film production and digital monetization. Expert in navigating the "Domain Gap" between technical engineering and creative execution. I leverage deep expertise in **Film Jargon**, color science, and performance analysis to optimize AI-augmented workflows and deliver scalable, high-impact creative solutions.
 
