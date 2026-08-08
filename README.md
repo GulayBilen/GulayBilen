@@ -99,6 +99,38 @@ The goal is to build narratives that feel intentional, adaptive, and emotionally
 ### What This Capsule Demonstrates
 A story development engine that merges human creativity with computational insight — producing narratives that are more coherent, more intentional, and more deeply connected to the emotional core of the concept.
 
+## Creative Process
+
+My creative process blends observation, narrative logic, and modern creative technology into a workflow that is both intuitive and structured.  
+It is built around clarity, emotional grounding, and iterative refinement — allowing ideas to evolve while staying connected to their core intent.
+
+This process reflects how I approach multidisciplinary work: moving between concept, interaction, symbolism, and experiential design with a focus on coherence and meaning.
+
+### How I Work
+
+**1. Observation & Pattern Recognition**  
+I begin by identifying emotional cues, symbolic structures, and behavioral patterns.  
+This helps me understand the underlying logic of an idea before shaping it into a creative system.
+
+**2. Narrative Framing**  
+Every concept becomes a story — with tone, pacing, tension, and resolution.  
+This narrative framing guides how the experience should feel and behave.
+
+**3. System Design**  
+I translate the narrative into structured creative systems:  
+interaction flows, experiential frameworks, multimodal logic, or brand‑driven symbolism.
+
+**4. Iteration & Refinement**  
+Ideas evolve through cycles of testing, adjusting, and clarifying.  
+I refine until the experience feels intentional, coherent, and emotionally aligned.
+
+**5. Integration with Creative Technology**  
+AI, multimodal agents, and computational tools support the process by revealing patterns, strengthening clarity, and expanding creative possibilities.
+
+### What This Page Demonstrates
+A creative workflow that is both human and systematic — grounded in intuition, shaped by narrative, and enhanced by modern creative technology.  
+It shows how I build experiences that feel alive, intentional, and deeply connected to their conceptual core.
+
 ## Executive Summary
 Strategic media leader with a background in high-fidelity film production and digital monetization. Expert in navigating the "Domain Gap" between technical engineering and creative execution. I leverage deep expertise in **Film Jargon**, color science, and performance analysis to optimize AI-augmented workflows and deliver scalable, high-impact creative solutions.
 
