@@ -131,6 +131,27 @@ AI, multimodal agents, and computational tools support the process by revealing 
 A creative workflow that is both human and systematic — grounded in intuition, shaped by narrative, and enhanced by modern creative technology.  
 It shows how I build experiences that feel alive, intentional, and deeply connected to their conceptual core.
 
+## Contact
+
+If you’d like to discuss creative technology, experiential storytelling, or multidisciplinary design, you can reach me through the channels below.  
+I welcome thoughtful conversations, collaboration, and opportunities that align with narrative systems, creative workflows, and modern brand experiences.
+
+### Connect With Me
+- **Email:** [gulay.work@gmail.com](mailto:gulay.work@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/gulay](https://linkedin.com/in/gulay)  
+- **GitHub:** [github.com/gulay](https://github.com/gulay)  
+
+### What I’m Open To
+- Creative technology roles  
+- Experiential and narrative design  
+- Multimodal and agentic workflow projects  
+- Concept development and prototyping  
+- Collaborative creative research  
+
+### How I Work
+I value clarity, intention, and meaningful collaboration.  
+If you reach out, please include a short note about your project or interest — it helps me understand how we can build something thoughtful together.
+
 ## Executive Summary
 Strategic media leader with a background in high-fidelity film production and digital monetization. Expert in navigating the "Domain Gap" between technical engineering and creative execution. I leverage deep expertise in **Film Jargon**, color science, and performance analysis to optimize AI-augmented workflows and deliver scalable, high-impact creative solutions.
 
