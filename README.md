@@ -64,6 +64,24 @@ It blends UX reasoning, narrative structure, and AI‑augmented orchestration to
 A structured yet flexible creative engine that mirrors how modern creative teams work:  
 observing, iterating, refining, and shaping ideas into intentional experiences.
 
+## Capsule 03 — Experiential Narrative Systems
+
+Experiential Narrative Systems explore how stories behave when they move through space, interaction, and emotional pacing.  
+This capsule focuses on designing experiences that feel lived — not just viewed — by shaping how users move, feel, and interpret meaning across different touchpoints.
+
+It blends spatial storytelling, sensory memory, and UX reasoning to create environments where narrative and interaction reinforce each other.  
+The goal is to build experiences that feel intentional, human, and immersive.
+
+### Core Themes
+- Spatial storytelling shaped by movement and emotional pacing  
+- Systems that respond to user behavior and narrative context  
+- Sensory-driven experience design (light, sound, rhythm, tension)  
+- Hybrid environments blending physical, digital, and symbolic elements  
+
+### What This Capsule Demonstrates
+A narrative system that adapts to the user’s presence — guiding them through moments of clarity, tension, and discovery.  
+It shows how experiential design can turn abstract ideas into environments that feel alive, coherent, and emotionally grounded.
+
 ## Executive Summary
 Strategic media leader with a background in high-fidelity film production and digital monetization. Expert in navigating the "Domain Gap" between technical engineering and creative execution. I leverage deep expertise in **Film Jargon**, color science, and performance analysis to optimize AI-augmented workflows and deliver scalable, high-impact creative solutions.
 
