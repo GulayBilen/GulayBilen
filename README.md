@@ -82,6 +82,23 @@ The goal is to build experiences that feel intentional, human, and immersive.
 A narrative system that adapts to the user’s presence — guiding them through moments of clarity, tension, and discovery.  
 It shows how experiential design can turn abstract ideas into environments that feel alive, coherent, and emotionally grounded.
 
+## Capsule 04 — AI‑Augmented Story Development
+
+AI‑Augmented Story Development explores how human intuition and machine‑driven patterning can work together to shape narrative structure, emotional pacing, and conceptual clarity.  
+This capsule focuses on using AI not as a replacement for creativity, but as a narrative amplifier — a system that helps refine ideas, reveal patterns, and expand the boundaries of storytelling.
+
+It blends symbolic reasoning, multimodal generation, and experiential logic to create story systems that evolve with the creator.  
+The goal is to build narratives that feel intentional, adaptive, and emotionally resonant.
+
+### Core Themes
+- AI as a narrative collaborator rather than a generator  
+- Pattern recognition that strengthens story clarity  
+- Emotional pacing supported by multimodal feedback  
+- Systems that help refine tone, symbolism, and structure  
+
+### What This Capsule Demonstrates
+A story development engine that merges human creativity with computational insight — producing narratives that are more coherent, more intentional, and more deeply connected to the emotional core of the concept.
+
 ## Executive Summary
 Strategic media leader with a background in high-fidelity film production and digital monetization. Expert in navigating the "Domain Gap" between technical engineering and creative execution. I leverage deep expertise in **Film Jargon**, color science, and performance analysis to optimize AI-augmented workflows and deliver scalable, high-impact creative solutions.
 
