@@ -45,7 +45,25 @@ These capsules reflect how I translate abstract ideas into structured creative s
 ### Included Capsules
 - [Optical Storytelling Engine](./optical-storytelling-engine.md)  
 - [Agentic Creative Workflow](./agentic-creative-workflow.md)
-- 
+
+  ## Capsule 02 — Agentic Creative Workflow
+
+Agentic Creative Workflow explores how multimodal systems, human intuition, and structured creative logic work together to produce clarity inside ambiguity.  
+It focuses on designing workflows that feel alive — adaptive, iterative, and emotionally grounded — while still maintaining technical precision.
+
+This capsule reflects how I build creative systems that think, respond, and evolve.  
+It blends UX reasoning, narrative structure, and AI‑augmented orchestration to create workflows that support both exploration and refinement.
+
+### Core Themes
+- Multimodal agents coordinating creative tasks  
+- Validation loops that preserve narrative clarity  
+- Emotional grounding inside technical workflows  
+- Systems that adapt to user behavior and creative intent  
+
+### What This Capsule Demonstrates
+A structured yet flexible creative engine that mirrors how modern creative teams work:  
+observing, iterating, refining, and shaping ideas into intentional experiences.
+
 ## Executive Summary
 Strategic media leader with a background in high-fidelity film production and digital monetization. Expert in navigating the "Domain Gap" between technical engineering and creative execution. I leverage deep expertise in **Film Jargon**, color science, and performance analysis to optimize AI-augmented workflows and deliver scalable, high-impact creative solutions.
 
