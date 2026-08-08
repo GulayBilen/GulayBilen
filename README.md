@@ -46,7 +46,7 @@ These capsules reflect how I translate abstract ideas into structured creative s
 - [Optical Storytelling Engine](./optical-storytelling-engine.md)  
 - [Agentic Creative Workflow](./agentic-creative-workflow.md)
 
-  ## Capsule 02 — Agentic Creative Workflow
+## Capsule 02 — Agentic Creative Workflow
 
 Agentic Creative Workflow explores how multimodal systems, human intuition, and structured creative logic work together to produce clarity inside ambiguity.  
 It focuses on designing workflows that feel alive — adaptive, iterative, and emotionally grounded — while still maintaining technical precision.
