@@ -2,10 +2,38 @@
 **Senior Creative Producer & Performance Strategy Executive** *Bridging High-Polish Production with AI-Augmented Workflows*
 
 [LinkedIn](https://www.linkedin.com/in/gulay-bilen) | Long Beach, CA | Bilingual: English & Turkish
-<!-- HERO REEL PLACEHOLDER -->
-<!-- Replace this block with embedded video or GIF when ready -->
+
 
 ---
+## Portfolio Introduction  
+  
+I am a multidisciplinary creative shaped by symbolism, sensory memory, and narrative clarity.    
+My work moves between conceptual thinking, emotional grounding, and modern creative technology — connecting ideas the way a knot holds tension or a forest holds silence.  
+  
+I design through observation, pattern recognition, and experiential storytelling.    
+Whether I’m mapping user behavior, shaping brand tone, or building creative workflows, my focus is always the same: create clarity inside ambiguity and build experiences that feel intentional, human, and connected.  
+  
+This portfolio is a collection of capsules that reflect how I think, prototype, and translate emotion into structure.    
+It is a placeholder in motion — evolving, expanding, and shaped by the same multidisciplinary lens that guides my creative identity.  
+  
+  
+## Portfolio Navigation  
+  
+- [Creative Identity](./creative-identity.md)  
+- [Hero Reel Placeholder](./hero-reel.md)  
+- [Brand Capsules](./brand-capsules.md)  
+- [Interactive Capsules](./interactive-capsules.md)  
+- [Conceptual Capsules](./conceptual-capsules.md)  
+- [Experiential Capsule](./experiential-capsule.md)  
+- [Technology Capsules](./technology-capsules.md)  
+- [Creative Process](./creative-process.md)  
+- [Contact](./contact.md)  
+  
+  
+## Creative Identity Summary  
+  
+Multidisciplinary creative working at the intersection of symbolism, UX reasoning, experiential storytelling, and AI‑augmented workflows.    
+My work blends conceptual clarity with emotional grounding, shaped by nature, cultural motifs, and modern creative technology.
 
 ## Executive Summary
 Strategic media leader with a background in high-fidelity film production and digital monetization. Expert in navigating the "Domain Gap" between technical engineering and creative execution. I leverage deep expertise in **Film Jargon**, color science, and performance analysis to optimize AI-augmented workflows and deliver scalable, high-impact creative solutions.
