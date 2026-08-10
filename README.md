@@ -16,8 +16,22 @@ Whether I’m mapping user behavior, shaping brand tone, or building creative wo
 This portfolio is a collection of capsules that reflect how I think, prototype, and translate emotion into structure.    
 It is a placeholder in motion — evolving, expanding, and shaped by the same multidisciplinary lens that guides my creative identity.  
   
-  
-## Portfolio Navigation  
+## Navigation
+This portfolio is organized into clear creative chapters.  
+Each section reflects a different dimension of my work — from conceptual thinking to experiential systems and modern creative technology.
+
+### Core Sections
+- **[Brand Capsules](./brand-capsules.md)** — A gallery of narrative-driven creative systems.
+- **[Interactive Capsules](./interactive-capsules.md)** — Interaction as storytelling and behavioral logic.
+- **[Conceptual Capsules](./conceptual-capsules.md)** — Symbolism, narrative structure, and conceptual reasoning.
+- **[Experiential Capsule](./experiential-capsule.md)** — Spatial storytelling and sensory-driven experience design.
+- **[Technology Capsules](./technology-capsules.md)** — AI systems, multimodal workflows, and computational creativity.
+
+### Additional Pages
+- **[Creative Process](./creative-process.md)** — How I work, think, and build.
+- **[Contact](./contact.md)** — Connect for collaboration or creative opportunities.
+
+This structure keeps the portfolio intuitive, readable, and aligned with how I approach multidisciplinary creative work.
   
 - [Creative Identity](./creative-identity.md)  
 - [Hero Reel Placeholder](./hero-reel.md)  
