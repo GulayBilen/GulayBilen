@@ -44,10 +44,16 @@ This structure keeps the portfolio intuitive, readable, and aligned with how I a
 - [Contact](./contact.md)  
   
   
-## Creative Identity Summary  
-  
-Multidisciplinary creative working at the intersection of symbolism, UX reasoning, experiential storytelling, and AI‑augmented workflows.    
-My work blends conceptual clarity with emotional grounding, shaped by nature, cultural motifs, and modern creative technology.
+## Portfolio Introduction
+
+This portfolio is a curated collection of my creative systems, narrative frameworks, and experiential design work.  
+It reflects how I think, build, and shape modern creative technology — blending storytelling, interaction, and multimodal workflows into coherent, intentional experiences.
+
+Each section in this portfolio represents a different dimension of my practice:  
+from conceptual reasoning and symbolic structure to experiential design and AI‑driven creative tools.
+
+This is not a traditional repository.  
+It is a living creative space — a place where ideas, systems, and stories evolve together.
 
 ## Brand Capsules
 
