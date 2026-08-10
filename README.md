@@ -182,6 +182,7 @@ This section reflects my approach to concept development as a blend of narrative
 ### What This Section Demonstrates
 A conceptual foundation that supports multidisciplinary creative work — showing how ideas evolve from abstract thought into structured, intentional systems that feel human, coherent, and emotionally grounded.
 
+
 ## Executive Summary
 Strategic media leader with a background in high-fidelity film production and digital monetization. Expert in navigating the "Domain Gap" between technical engineering and creative execution. I leverage deep expertise in **Film Jargon**, color science, and performance analysis to optimize AI-augmented workflows and deliver scalable, high-impact creative solutions.
 
