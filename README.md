@@ -167,6 +167,21 @@ This section reflects my approach to interaction as a living system: responsive,
 ### What This Section Demonstrates
 A perspective on interaction that blends UX reasoning, narrative structure, and creative technology — showing how interactive systems can feel coherent, human, and emotionally resonant.
 
+## Conceptual Capsules
+
+Conceptual Capsules explore the underlying logic that shapes creative systems — the symbolism, narrative structure, emotional intent, and experiential reasoning that guide how an idea becomes a coherent experience.  
+These capsules focus on the invisible architecture behind creative work: the patterns, tensions, and conceptual frameworks that give a project depth and meaning.
+
+This section reflects my approach to concept development as a blend of narrative clarity, symbolic reasoning, and modern creative technology.
+
+### Included Capsules
+- [AI‑Augmented Story Development](./ai-augmented-story-development.md)  
+- [Optical Storytelling Engine](./optical-storytelling-engine.md)  
+- [Experiential Narrative Systems](./experiential-narrative-systems.md)  
+
+### What This Section Demonstrates
+A conceptual foundation that supports multidisciplinary creative work — showing how ideas evolve from abstract thought into structured, intentional systems that feel human, coherent, and emotionally grounded.
+
 ## Executive Summary
 Strategic media leader with a background in high-fidelity film production and digital monetization. Expert in navigating the "Domain Gap" between technical engineering and creative execution. I leverage deep expertise in **Film Jargon**, color science, and performance analysis to optimize AI-augmented workflows and deliver scalable, high-impact creative solutions.
 
