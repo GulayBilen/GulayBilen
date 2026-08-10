@@ -152,6 +152,21 @@ I welcome thoughtful conversations, collaboration, and opportunities that align 
 I value clarity, intention, and meaningful collaboration.  
 If you reach out, please include a short note about your project or interest — it helps me understand how we can build something thoughtful together.
 
+## Interactive Capsules
+
+Interactive Capsules explore how interaction becomes a storytelling medium — how movement, choice, feedback, and sensory cues shape the emotional logic of an experience.  
+These capsules focus on designing systems where the user is not just a viewer, but an active participant whose behavior influences the narrative.
+
+This section reflects my approach to interaction as a living system: responsive, intentional, and grounded in experiential clarity.
+
+### Included Capsules
+- [Experiential Narrative Systems](./experiential-narrative-systems.md)  
+- [Agentic Creative Workflow](./agentic-creative-workflow.md)  
+- [Optical Storytelling Engine](./optical-storytelling-engine.md)  
+
+### What This Section Demonstrates
+A perspective on interaction that blends UX reasoning, narrative structure, and creative technology — showing how interactive systems can feel coherent, human, and emotionally resonant.
+
 ## Executive Summary
 Strategic media leader with a background in high-fidelity film production and digital monetization. Expert in navigating the "Domain Gap" between technical engineering and creative execution. I leverage deep expertise in **Film Jargon**, color science, and performance analysis to optimize AI-augmented workflows and deliver scalable, high-impact creative solutions.
 
