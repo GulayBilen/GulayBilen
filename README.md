@@ -182,6 +182,20 @@ This section reflects my approach to concept development as a blend of narrative
 ### What This Section Demonstrates
 A conceptual foundation that supports multidisciplinary creative work — showing how ideas evolve from abstract thought into structured, intentional systems that feel human, coherent, and emotionally grounded.
 
+## Experiential Capsule
+
+Experiential Capsules explore how environments, interactions, and sensory cues shape the emotional arc of a story.  
+They focus on the lived dimension of creative work — how an experience feels, moves, responds, and guides the user through moments of clarity, tension, and discovery.
+
+This section reflects my approach to experience design as a blend of spatial storytelling, behavioral insight, and narrative pacing.
+
+### Included Capsules
+- [Experiential Narrative Systems](./experiential-narrative-systems.md)  
+- [Optical Storytelling Engine](./optical-storytelling-engine.md)  
+- [Agentic Creative Workflow](./agentic-creative-workflow.md)  
+
+### What This Section Demonstrates
+A perspective on experience as a dynamic, adaptive system — one that responds to user behavior, reinforces narrative intent, and creates environments that feel coherent, human, and emotionally resonant.
 
 ## Executive Summary
 Strategic media leader with a background in high-fidelity film production and digital monetization. Expert in navigating the "Domain Gap" between technical engineering and creative execution. I leverage deep expertise in **Film Jargon**, color science, and performance analysis to optimize AI-augmented workflows and deliver scalable, high-impact creative solutions.
