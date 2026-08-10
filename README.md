@@ -44,16 +44,18 @@ This structure keeps the portfolio intuitive, readable, and aligned with how I a
 - [Contact](./contact.md)  
   
   
-## Portfolio Introduction
+## Creative Identity Summary
 
-This portfolio is a curated collection of my creative systems, narrative frameworks, and experiential design work.  
-It reflects how I think, build, and shape modern creative technology — blending storytelling, interaction, and multimodal workflows into coherent, intentional experiences.
+My creative practice sits at the intersection of narrative design, experiential systems, and modern creative technology.  
+I build frameworks that blend symbolism, interaction, and multimodal workflows — shaping experiences that feel intentional, coherent, and emotionally resonant.
 
-Each section in this portfolio represents a different dimension of my practice:  
-from conceptual reasoning and symbolic structure to experiential design and AI‑driven creative tools.
+I approach creative work as a system:  
+a living structure where story, behavior, and technology inform one another.  
+This perspective allows me to design environments, tools, and narratives that adapt, respond, and evolve.
 
-This is not a traditional repository.  
-It is a living creative space — a place where ideas, systems, and stories evolve together.
+My identity as a creative technologist is rooted in clarity, structure, and expressive storytelling.  
+Whether I’m shaping conceptual frameworks, crafting experiential narratives, or designing AI‑driven creative tools, my focus remains the same:  
+to create systems that feel human, meaningful, and beautifully constructed.
 
 ## Brand Capsules
 
