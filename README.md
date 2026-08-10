@@ -5,16 +5,16 @@
 
 
 ---
-## Portfolio Introduction  
-  
-I am a multidisciplinary creative shaped by symbolism, sensory memory, and narrative clarity.    
-My work moves between conceptual thinking, emotional grounding, and modern creative technology — connecting ideas the way a knot holds tension or a forest holds silence.  
-  
-I design through observation, pattern recognition, and experiential storytelling.    
-Whether I’m mapping user behavior, shaping brand tone, or building creative workflows, my focus is always the same: create clarity inside ambiguity and build experiences that feel intentional, human, and connected.  
-  
-This portfolio is a collection of capsules that reflect how I think, prototype, and translate emotion into structure.    
-It is a placeholder in motion — evolving, expanding, and shaped by the same multidisciplinary lens that guides my creative identity.  
+## Portfolio Introduction
+
+This portfolio is a curated collection of my creative systems, narrative frameworks, and experiential design work.  
+It reflects how I think, build, and shape modern creative technology — blending storytelling, interaction, and multimodal workflows into coherent, intentional experiences.
+
+Each section in this portfolio represents a different dimension of my practice:  
+from conceptual reasoning and symbolic structure to experiential design and AI‑driven creative tools.
+
+This is not a traditional repository.  
+It is a living creative space — a place where ideas, systems, and stories evolve together.
   
 ## Navigation
 This portfolio is organized into clear creative chapters.  
