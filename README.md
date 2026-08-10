@@ -197,6 +197,22 @@ This section reflects my approach to experience design as a blend of spatial sto
 ### What This Section Demonstrates
 A perspective on experience as a dynamic, adaptive system — one that responds to user behavior, reinforces narrative intent, and creates environments that feel coherent, human, and emotionally resonant.
 
+## Technology Capsules
+
+Technology Capsules explore the computational systems, multimodal agents, and AI‑driven workflows that support modern creative development.  
+They focus on how technical structures — pattern recognition, orchestration, multimodal logic, and adaptive systems — enhance narrative clarity and experiential design.
+
+This section reflects my approach to creative technology as a collaborative layer:  
+a set of tools and systems that amplify human intuition rather than replace it.
+
+### Included Capsules
+- [AI‑Augmented Story Development](./ai-augmented-story-development.md)  
+- [Agentic Creative Workflow](./agentic-creative-workflow.md)  
+- [Optical Storytelling Engine](./optical-storytelling-engine.md)  
+
+### What This Section Demonstrates
+A technical foundation that supports multidisciplinary creative work — showing how modern tools, AI systems, and computational reasoning can strengthen narrative intent, refine interaction, and expand the boundaries of creative exploration.
+
 ## Executive Summary
 Strategic media leader with a background in high-fidelity film production and digital monetization. Expert in navigating the "Domain Gap" between technical engineering and creative execution. I leverage deep expertise in **Film Jargon**, color science, and performance analysis to optimize AI-augmented workflows and deliver scalable, high-impact creative solutions.
 
