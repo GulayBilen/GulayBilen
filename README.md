@@ -105,6 +105,40 @@ Where the idea continues…
 How it could evolve, expand, or breathe beyond this frame.  
 Your ellipsis signature lives here.
 
+## 🌿 Capsule: Intentional Silence
+
+### Creative Intent
+Exploring the role of silence as a deliberate design choice — a space where meaning gathers, breath returns, and emotional clarity emerges.  
+This capsule examines how absence becomes structure.
+
+### Narrative Frame
+This concept comes from the quiet moments in digital and physical environments where nothing is demanding attention — yet everything feels more present.  
+The pause before a decision.  
+The stillness between two ideas.  
+The calm that lets a user feel seen rather than rushed.
+
+### Symbolic Anchor
+Guided by the **Mizuhiki Knot** — a motif of intention, connection, and ceremonial meaning.  
+Silence, like the knot, is not empty; it is deliberate.  
+It holds emotional weight and creates space for significance.
+
+### Design Reasoning
+- Silence becomes a pacing tool that shapes how users move through an experience.  
+- Negative space acts as a narrative device, directing attention without force.  
+- Restraint becomes a form of clarity — choosing what *not* to say.  
+- Emotional intention is embedded in the pause, not the action.  
+- Cultural nuance emerges in how different audiences interpret quietness.
+
+### Outcome
+This capsule demonstrates how silence can be used as a structural element — not a gap, but a frame.  
+It reveals my instinct for designing with calm precision, emotional intention, and narrative spaciousness.
+
+### Continuity
+The idea continues…  
+Silence evolves into rhythm, rhythm becomes structure, and structure becomes meaning.  
+This capsule expands into future concepts about pacing, breath, and the cinematic pause.
+
+
 ---
 ## Portfolio Introduction
 
