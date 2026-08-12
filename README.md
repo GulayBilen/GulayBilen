@@ -17,6 +17,24 @@ I design with the same instinct I live with: **calm precision**, **thoughtful pa
 - **Intentionality** — every detail carries weight, purpose, and cultural nuance.
 - **Continuity** — ideas that extend beyond the frame, creating experiences that breathe and evolve.
 
+- ## 🌿 Ellipsis as Creative Signature
+
+The ellipsis is my pause — a quiet breath in the narrative — a moment where the idea widens instead of ending.  
+It reflects how I think, how I design, and how I move through creative work: with intention, spaciousness, and conceptual clarity.
+
+I use ellipses when a thought is deliberately left open…  
+not unfinished, but expanding — inviting the reader to step into the continuation.
+
+### How the Ellipsis Functions in My Practice
+
+- **Pacing** — a controlled rhythm that guides attention and emotion.  
+- **Restraint** — choosing what to say, and what to leave unsaid.  
+- **Continuity** — ideas that extend beyond the frame, creating experiences that breathe.
+
+The ellipsis is not decoration.  
+It is a design choice — a narrative device — a signature of how I shape meaning.
+
+
 ---
 ## Portfolio Introduction
 
