@@ -34,6 +34,35 @@ not unfinished, but expanding — inviting the reader to step into the continuat
 The ellipsis is not decoration.  
 It is a design choice — a narrative device — a signature of how I shape meaning.
 
+## 🌿 Cultural & Symbolic Intelligence
+
+My symbolic motifs form a quiet visual language — shapes, memories, and cultural anchors that reveal how I think.  
+They’re not decorative elements; they’re cognitive markers.  
+Each motif carries emotional weight, narrative depth, and a sense of continuity across my work.
+
+Together, they reflect my instinct for meaning, my sensitivity to cultural nuance, and my ability to translate abstract ideas into visual form.
+
+### 🌿 Triquetra
+A symbol of interconnectedness — three strands forming one whole.  
+It mirrors my ability to unify narrative, structure, and emotion into coherent experiences.
+
+### 🌿 Mizuhiki Knot
+A Japanese motif of connection, intention, and ceremonial meaning.  
+It reflects my instinct for thoughtful design and the quiet significance behind every detail.
+
+### 🌿 Olive Tree
+A symbol of endurance, memory, and rootedness.  
+It represents my long arc of experience across cultures and my calm, grounded creative presence.
+
+### 🌿 Ocean Horizon
+A motif of openness, possibility, and emotional clarity.  
+It mirrors my spacious design instinct — the way I create room for breath, pause, and continuation.
+
+### 🌿 Forest Pathways
+A symbol of exploration, intuition, and quiet discovery.  
+It reflects my ability to navigate complexity with calm precision and narrative intention.
+
+
 
 ---
 ## Portfolio Introduction
