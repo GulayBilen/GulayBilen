@@ -3,6 +3,19 @@
 
 [LinkedIn](https://www.linkedin.com/in/gulay-bilen) | Long Beach, CA | Bilingual: English & Turkish
 
+## 🌿 Identity
+
+I design through **clarity**, **restraint**, and **emotional intention** — shaping experiences that feel cinematic, spacious, and quietly confident. My work blends cultural intelligence, narrative sensitivity, and a deep respect for how people move through digital environments.
+
+I think in **symbols**, **systems**, and **stories**.  
+I build **meaning into structure**.  
+I design with the same instinct I live with: **calm precision**, **thoughtful pacing**, and a focus on what truly matters.
+
+### Pillars of My Creative Identity
+
+- **Interconnectedness** — the ability to unify narrative, structure, and emotion into coherent experiences.
+- **Intentionality** — every detail carries weight, purpose, and cultural nuance.
+- **Continuity** — ideas that extend beyond the frame, creating experiences that breathe and evolve.
 
 ---
 ## Portfolio Introduction
