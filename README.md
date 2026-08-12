@@ -62,7 +62,48 @@ It mirrors my spacious design instinct — the way I create room for breath, pau
 A symbol of exploration, intuition, and quiet discovery.  
 It reflects my ability to navigate complexity with calm precision and narrative intention.
 
+## 🌿 Capsule: [Title of Concept]
 
+### Creative Intent
+A concise statement of what this capsule explores — a design instinct, a narrative idea, or a symbolic structure.  
+This is the “why” behind the concept.
+
+### Narrative Frame
+The story that shapes the idea.  
+What moment, memory, or cultural insight sparked this concept?  
+How does it connect to human behavior or emotional intention?
+
+### Symbolic Anchor
+The motif guiding this capsule:
+
+- **Triquetra**
+- **Mizuhiki Knot**
+- **Olive Tree**
+- **Ocean Horizon**
+- **Forest Pathways**
+
+Explain why this symbol belongs here — what it reveals about the idea.
+
+### Design Reasoning
+How you shaped the concept:
+
+- the structure  
+- the pacing  
+- the emotional intention  
+- the interaction logic  
+- the cultural nuance  
+- the narrative continuity  
+
+This is where your creative intelligence becomes visible.
+
+### Outcome
+What the capsule demonstrates — not a deliverable, but a **clarity of thought**.  
+What someone learns about your mind from this concept.
+
+### Continuity
+Where the idea continues…  
+How it could evolve, expand, or breathe beyond this frame.  
+Your ellipsis signature lives here.
 
 ---
 ## Portfolio Introduction
