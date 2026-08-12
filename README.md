@@ -138,6 +138,37 @@ The idea continues…
 Silence evolves into rhythm, rhythm becomes structure, and structure becomes meaning.  
 This capsule expands into future concepts about pacing, breath, and the cinematic pause.
 
+## 🌿 Capsule: Breath in the Frame
+
+### Creative Intent
+Exploring how breath becomes a design element — a subtle expansion within the frame that guides emotion, attention, and narrative flow.  
+This capsule examines the moment where space opens, and the experience inhales.
+
+### Narrative Frame
+This concept comes from the quiet widening of a scene — the instant where the frame feels larger, softer, more open.  
+It’s the pause before movement, the gentle shift that lets a user settle, orient, and feel present.  
+Breath becomes a form of hospitality in design.
+
+### Symbolic Anchor
+Guided by the **Ocean Horizon** — a motif of openness, possibility, and emotional clarity.  
+The horizon breathes; it expands.  
+It mirrors the way I create spaciousness in narrative and interaction.
+
+### Design Reasoning
+- Breath becomes a pacing device that shapes how users transition between ideas.  
+- Expansion within the frame creates emotional clarity and reduces cognitive load.  
+- Soft edges, open space, and gentle transitions form a rhythm that feels human.  
+- Cultural nuance emerges in how different audiences interpret spaciousness.  
+- The ellipsis signature lives in the widening — the continuation rather than the stop.
+
+### Outcome
+This capsule demonstrates how breath can be used as a structural and emotional tool.  
+It reveals my instinct for designing experiences that feel calm, cinematic, and intentionally paced.
+
+### Continuity
+The idea continues…  
+Breath becomes rhythm, rhythm becomes flow, and flow becomes narrative movement.  
+This capsule expands into future concepts about openness, emotional clarity, and experiential pacing.
 
 ---
 ## Portfolio Introduction
