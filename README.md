@@ -170,6 +170,37 @@ The idea continues…
 Breath becomes rhythm, rhythm becomes flow, and flow becomes narrative movement.  
 This capsule expands into future concepts about openness, emotional clarity, and experiential pacing.
 
+## 🌿 Capsule: The Architecture of Calm
+
+### Creative Intent
+Exploring calm as a structural principle — not softness, not quietness, but an intentional architecture that shapes how people move, feel, and interpret an experience.  
+This capsule examines calm as a design system.
+
+### Narrative Frame
+This concept comes from the environments where clarity feels built, not improvised — spaces where order, pacing, and emotional grounding are woven into the structure itself.  
+Calm becomes a framework: a way of organizing information, guiding attention, and creating trust.
+
+### Symbolic Anchor
+Guided by the **Olive Tree** — a motif of endurance, rootedness, and quiet strength.  
+Calm, like the olive tree, is not fragile; it is foundational.  
+It holds memory, stability, and cultural depth.
+
+### Design Reasoning
+- Calm becomes an architectural choice — a way to structure hierarchy, flow, and interaction.  
+- Stability in layout creates emotional grounding for the user.  
+- Restraint in motion and transitions reduces cognitive noise.  
+- Cultural nuance emerges in how different audiences interpret stability and softness.  
+- Calm becomes a system of trust: predictable pacing, intentional spacing, and thoughtful continuity.
+
+### Outcome
+This capsule demonstrates how calm can be engineered — built into the bones of an experience rather than added as decoration.  
+It reveals my instinct for designing environments that feel stable, grounded, and emotionally intelligent.
+
+### Continuity
+The idea continues…  
+Calm becomes structure, structure becomes clarity, and clarity becomes emotional resonance.  
+This capsule expands into future concepts about stability, trust, and architectural intention.
+
 ---
 ## Portfolio Introduction
 
