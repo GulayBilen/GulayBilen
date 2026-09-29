@@ -473,20 +473,49 @@ This section reflects my approach to concept development as a blend of narrative
 ### What This Section Demonstrates
 A conceptual foundation that supports multidisciplinary creative work — showing how ideas evolve from abstract thought into structured, intentional systems that feel human, coherent, and emotionally grounded.
 
-## Experiential Capsule
+## 🎨 Experiential Capsules — Spatial Storytelling & Sensory Logic
 
-Experiential Capsules explore how environments, interactions, and sensory cues shape the emotional arc of a story.  
-They focus on the lived dimension of creative work — how an experience feels, moves, responds, and guides the user through moments of clarity, tension, and discovery.
+Experiential design is the lived dimension of creative work.  
+It shapes how an environment feels, moves, responds, and guides a user through moments of clarity, tension, and discovery.
 
-This section reflects my approach to experience design as a blend of spatial storytelling, behavioral insight, and narrative pacing.
+My experiential practice blends **spatial storytelling**, **behavioral insight**, and **narrative pacing** to create environments that feel human, intentional, and emotionally resonant.  
+These capsules explore how experience becomes a cinematic system — one that breathes, adapts, and carries meaning across every touchpoint.
 
-### Included Capsules
-- [Experiential Narrative Systems](./experiential-narrative-systems.md)  
-- [Optical Storytelling Engine](./optical-storytelling-engine.md)  
-- [Agentic Creative Workflow](./agentic-creative-workflow.md)  
 
-### What This Section Demonstrates
-A perspective on experience as a dynamic, adaptive system — one that responds to user behavior, reinforces narrative intent, and creates environments that feel coherent, human, and emotionally resonant.
+## 🌿 Core Experiential Philosophy
+
+Experience is not a surface — it is **emotional architecture**.
+
+I design experiential systems through:
+
+- **spatial rhythm** — how movement shapes narrative flow  
+- **sensory cues** — light, sound, tension, and atmosphere as emotional signals  
+- **behavioral clarity** — environments that respond to user presence  
+- **narrative pacing** — tension, pause, release, and resolution  
+- **symbolic continuity** — motifs that anchor meaning across space  
+- **experiential breath** — moments of openness that let the user settle and interpret  
+
+Experience becomes a story the user walks through.
+
+## 🎞 Included Capsules
+
+- **[Experiential Narrative Systems](./experiential-narrative-systems.md)** — stories shaped by movement, pacing, and sensory memory.  
+- **[Optical Storytelling Engine](./optical-storytelling-engine.md)** — cinematic logic applied to spatial and interactive environments.  
+- **[Agentic Creative Workflow](./agentic-creative-workflow.md)** — adaptive systems that respond to behavior and narrative context.
+
+---
+
+## 🎬 What This Section Demonstrates
+
+A senior‑level perspective on experiential design:
+
+- experience as narrative, not decoration  
+- sensory cues as emotional architecture  
+- spatial rhythm as storytelling  
+- environments that adapt to user behavior  
+- multimodal systems that create coherence across touchpoints  
+
+This section shows how I design experiences that feel lived — cinematic, intentional, and emotionally grounded.
 
 ## Technology Capsules
 
