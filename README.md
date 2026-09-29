@@ -378,20 +378,48 @@ I welcome thoughtful conversations, collaboration, and opportunities that align 
 I value clarity, intention, and meaningful collaboration.  
 If you reach out, please include a short note about your project or interest — it helps me understand how we can build something thoughtful together.
 
-## Interactive Capsules
+## 🎛 Interactive Capsules — Behavioral Narrative Systems
 
-Interactive Capsules explore how interaction becomes a storytelling medium — how movement, choice, feedback, and sensory cues shape the emotional logic of an experience.  
-These capsules focus on designing systems where the user is not just a viewer, but an active participant whose behavior influences the narrative.
+Interaction is a storytelling medium.  
+It shapes how a user moves, chooses, reacts, and interprets meaning — turning behavior into narrative and motion into emotional logic.
 
-This section reflects my approach to interaction as a living system: responsive, intentional, and grounded in experiential clarity.
+My interactive work blends **UX reasoning**, **narrative structure**, and **creative technology** to design systems that feel coherent, human, and emotionally resonant.  
+These capsules explore how interaction becomes a living system: responsive, intentional, and grounded in experiential clarity.
 
-### Included Capsules
-- [Experiential Narrative Systems](./experiential-narrative-systems.md)  
-- [Agentic Creative Workflow](./agentic-creative-workflow.md)  
-- [Optical Storytelling Engine](./optical-storytelling-engine.md)  
 
-### What This Section Demonstrates
-A perspective on interaction that blends UX reasoning, narrative structure, and creative technology — showing how interactive systems can feel coherent, human, and emotionally resonant.
+## 🎚 Core Interactive Philosophy
+
+Interaction is not mechanics — it is **behavioral narrative**.
+
+I design interactive systems through:
+
+- **emotional pacing** — how tension and release guide user behavior  
+- **symbolic logic** — how motifs shape meaning inside interaction  
+- **motion intelligence** — how movement clarifies intention  
+- **agentic workflows** — systems that respond to user presence  
+- **experiential continuity** — interaction that breathes across touchpoints  
+
+Interaction becomes a cinematic language — a way for the experience to speak back.
+
+
+## 🎞 Included Capsules
+
+- **[Experiential Narrative Systems](./experiential-narrative-systems.md)** — interaction shaped by movement, pacing, and emotional tension.  
+- **[Agentic Creative Workflow](./agentic-creative-workflow.md)** — multimodal agents coordinating creative tasks with narrative clarity.  
+- **[Optical Storytelling Engine](./optical-storytelling-engine.md)** — interaction as visual logic, where motion becomes meaning.
+
+
+## 🎬 What This Section Demonstrates
+
+A senior‑level perspective on interaction:
+
+- interaction as narrative, not UI  
+- behavior as emotional architecture  
+- motion as intention  
+- systems that adapt to user presence  
+- creative technology that amplifies human intuition  
+
+This section shows how I design interactive systems that feel alive — coherent, cinematic, and emotionally grounded.
 
 ## Conceptual Capsules
 
