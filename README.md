@@ -256,6 +256,13 @@ to create systems that feel human, meaningful, and beautifully constructed.
 
 ## Brand Capsules
 
+Brand is emotional intention.
+
+Brand Logic
+──────────────
+Narrative → Tone → Emotion → Experience
+
+
 Brand Capsules explore how clarity, symbolism, and narrative structure shape the identity of a brand.  
 They focus on the emotional logic behind visual systems, tone, and experiential coherence — the elements that make a brand feel intentional, grounded, and alive.
 
@@ -387,6 +394,20 @@ This section reflects my approach to interaction as a living system: responsive,
 A perspective on interaction that blends UX reasoning, narrative structure, and creative technology — showing how interactive systems can feel coherent, human, and emotionally resonant.
 
 ## Conceptual Capsules
+
+## 🎞 Storyboard Frames — Motion Study
+
+**Frame 1 — Stillness**  
+A quiet establishing moment. Soft light, minimal motion, emotional neutrality.
+
+**Frame 2 — Tension**  
+A shift in tone. Contrast increases, motion begins, emotional stakes rise.
+
+**Frame 3 — Release**  
+A return to clarity. Motion resolves, color softens, emotional meaning emerges.
+
+> These frames represent the emotional arc that guides my motion work —
+> from atmosphere, to tension, to narrative resolution.
 
 Conceptual Capsules explore the underlying logic that shapes creative systems — the symbolism, narrative structure, emotional intent, and experiential reasoning that guide how an idea becomes a coherent experience.  
 These capsules focus on the invisible architecture behind creative work: the patterns, tensions, and conceptual frameworks that give a project depth and meaning.
