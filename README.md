@@ -481,6 +481,7 @@ It shapes how an environment feels, moves, responds, and guides a user through m
 My experiential practice blends **spatial storytelling**, **behavioral insight**, and **narrative pacing** to create environments that feel human, intentional, and emotionally resonant.  
 These capsules explore how experience becomes a cinematic system — one that breathes, adapts, and carries meaning across every touchpoint.
 
+---
 
 ## 🌿 Core Experiential Philosophy
 
@@ -496,6 +497,8 @@ I design experiential systems through:
 - **experiential breath** — moments of openness that let the user settle and interpret  
 
 Experience becomes a story the user walks through.
+
+---
 
 ## 🎞 Included Capsules
 
