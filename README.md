@@ -427,6 +427,11 @@ I design motion as a sequence of **emotional beats**:
 Motion is how I translate **brand tone**, **interactive behavior**, **conceptual symbolism**, **experiential memory**, and **AI‑driven workflows** into something that feels alive.
 
 It is the bridge between thought and feeling — the place where ideas begin to move.
+
+## 🎞 Visual Anchor for Motion Philosophy
+
+A set of cinematic frames representing emotional pacing, tonal shifts, and narrative movement.  
+These visuals act as placeholders until full motion sequences are uploaded.
 Conceptual Capsules explore the underlying logic that shapes creative systems — the symbolism, narrative structure, emotional intent, and experiential reasoning that guide how an idea becomes a coherent experience.  
 These capsules focus on the invisible architecture behind creative work: the patterns, tensions, and conceptual frameworks that give a project depth and meaning.
 
