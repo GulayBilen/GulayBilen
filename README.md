@@ -520,21 +520,52 @@ A senior‑level perspective on experiential design:
 
 This section shows how I design experiences that feel lived — cinematic, intentional, and emotionally grounded.
 
-## Technology Capsules
+## 🔧 Technology Capsules — AI‑Augmented Creative Systems
 
-Technology Capsules explore the computational systems, multimodal agents, and AI‑driven workflows that support modern creative development.  
-They focus on how technical structures — pattern recognition, orchestration, multimodal logic, and adaptive systems — enhance narrative clarity and experiential design.
+Technology is not a tool — it is a narrative engine.  
+It shapes how ideas form, evolve, and move through multimodal creative systems.  
+My technology practice blends **AI‑augmented workflows**, **computational storytelling**, and **agentic creative logic** to build systems that expand human intuition rather than replace it.
 
-This section reflects my approach to creative technology as a collaborative layer:  
-a set of tools and systems that amplify human intuition rather than replace it.
+These capsules explore how technology becomes a creative partner: adaptive, intentional, and capable of shaping narrative clarity across motion, interaction, and experiential design.
 
-### Included Capsules
-- [AI‑Augmented Story Development](./ai-augmented-story-development.md)  
-- [Agentic Creative Workflow](./agentic-creative-workflow.md)  
-- [Optical Storytelling Engine](./optical-storytelling-engine.md)  
+---
 
-### What This Section Demonstrates
-A technical foundation that supports multidisciplinary creative work — showing how modern tools, AI systems, and computational reasoning can strengthen narrative intent, refine interaction, and expand the boundaries of creative exploration.
+## 🧠 Core Technological Philosophy
+
+Technology is most powerful when it feels **human‑aligned**.
+
+I design technological systems through:
+
+- **agentic orchestration** — multimodal agents coordinating creative tasks with narrative coherence  
+- **computational storytelling** — algorithms shaping pacing, tension, and emotional logic  
+- **optical intelligence** — systems that interpret visual meaning, not just visual data  
+- **adaptive workflows** — tools that respond to creative context and user behavior  
+- **symbolic modeling** — translating motifs and narrative anchors into computational structures  
+- **AI‑augmented ideation** — expanding conceptual range while preserving artistic intention  
+
+Technology becomes a collaborator — not a replacement.
+
+---
+
+## 🧩 Included Capsules
+
+- **[AI‑Augmented Story Development](./ai-augmented-story-development.md)** — systems that support narrative ideation, pacing, and emotional logic.  
+- **[Agentic Creative Workflow](./agentic-creative-workflow.md)** — multimodal agents coordinating production, motion, and experiential tasks.  
+- **[Optical Storytelling Engine](./optical-storytelling-engine.md)** — computational interpretation of visual meaning and narrative movement.
+
+---
+
+## 🎬 What This Section Demonstrates
+
+A senior‑level perspective on creative technology:
+
+- technology as narrative infrastructure  
+- AI as a partner in conceptual and experiential design  
+- multimodal agents as creative collaborators  
+- computational systems that preserve artistic intention  
+- workflows that adapt to context, behavior, and story  
+
+This section shows how I build technological systems that feel intentional, cinematic, and deeply aligned with human creativity.
 
 ## Executive Summary
 Strategic media leader with a background in high-fidelity film production and digital monetization. Expert in navigating the "Domain Gap" between technical engineering and creative execution. I leverage deep expertise in **Film Jargon**, color science, and performance analysis to optimize AI-augmented workflows and deliver scalable, high-impact creative solutions.
